@@ -1,0 +1,4 @@
+/front/.next
+/back/venv
+/front/node_modules
+/front/package-lock.json
